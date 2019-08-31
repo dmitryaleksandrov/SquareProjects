@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SquareProjects</string>
+
+    <string name="separator">\u25CF</string>
+
+    <string name="error_activity_title">Error</string>
+    <string name="error_activity_text">Server is not reachable. Please check you Internet connection and try again.</string>
+    <string name="error_activity_try_again">Try again</string>
+</resources>
